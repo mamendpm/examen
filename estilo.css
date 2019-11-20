@@ -1,0 +1,37 @@
+header {
+    background-color:lightyellow;
+    border:white 1px solid    
+}
+img.izquierda {
+    text-align: left;
+  }
+
+  img.derecha {
+    text-align: right;
+  }
+
+nav {
+    background: lightgray;
+}
+
+span {
+    color: mediumslateblue;
+}
+footer {
+    background: lightyellow;
+    font-style: oblique;
+}
+article {
+    background: ;
+}
+p.centro {
+    text-align: center;
+}
+div {
+    background: mediumaquamarine;
+    block-size: 200px;
+}
+.derecha {
+    float: right;
+    text-align: right;
+}
